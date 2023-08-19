@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cadastro de Funcionários</string>
+    <string name="meu_nome">Antonio Neto</string>
+    <string name="codigo">Código</string>
+    <string name="nome">Nome</string>
+    <string name="logradouro">Logradouro</string>
+    <string name="numero">Número</string>
+    <string name="complemento">Complemento</string>
+    <string name="bairro">Bairro</string>
+    <string name="cidade">Cidade</string>
+    <string name="uf">UF</string>
+</resources>

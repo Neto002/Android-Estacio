@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tela de Login - Antonio Neto</string>
+    <string name="titulo">Cadastro de Fornecedores</string>
+    <string name="digite_seu_usuario">Digite seu usuário</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="senha">Senha</string>
+    <string name="usuario">Usuário</string>
+    <string name="acesso_ao_app">ACESSO AO APP</string>
+    <string name="matricula">Matrícula</string>
+    <string name="digite_sua_matricula">Digite sua matrícula</string>
+    <string name="nome">Nome</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="gravar">Gravar</string>
+    <string name="digite_sua_cidade">Digite sua cidade</string>
+    <string name="estado">Estado</string>
+    <string name="digite_seu_estado">Digite seu estado</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Listas</string>
+    <string name="lista_simples">Lista Simples</string>
+    <string name="lista_de_cursos">Lista de Cursos</string>
+</resources>

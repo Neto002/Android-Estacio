@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD - Parte 1</string>
+    <string name="titulo">Cadastro de Clientes</string>
+    <string name="digite_seu_nome">Digite seu Nome</string>
+    <string name="nome">Nome</string>
+    <string name="inserir">Inserir</string>
+</resources>
